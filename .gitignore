@@ -10,3 +10,10 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Sqlite dbs
+*.db
+
+
+# Vendor files
+vendor/
